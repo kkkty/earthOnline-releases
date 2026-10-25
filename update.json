@@ -1,0 +1,10 @@
+{
+  "versionCode": 6,
+  "versionName": "1.5",
+  "changelog": "现金流详情子页（总现金 / 风险等级 / 日月年收支双线 / 收支明细）；收支同表 v13；日记改用系统相机；个人信息抽屉。",
+  "downloadUrl": "https://github.com/kkkty/earthOnline-releases/releases/download/v1.5/earthOnline-v1.5.apk",
+  "assetId": 674663505,
+  "sha256": "91686c027fe79ced35678a7e84c74b5d0603209e6cd0bd2e0448e902047ff2ff",
+  "sizeBytes": 10344878,
+  "publishedAt": "2026-10-25"
+}
