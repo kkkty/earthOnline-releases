@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "changelog": "现金流详情子页（总现金/风险/日月年收支双线/收支明细）+ 收支同表 v13 + 日记改用系统相机 + 个人信息抽屉 + 关于页真的能检查更新了（新增 INTERNET 权限）",
-  "downloadUrl": "https://github.com/kkkty/earthOnline-releases/releases/download/v1.6/earthOnline-v1.6.apk",
-  "apk": "earthOnline-v1.6.apk",
-  "sha256": "1769ee4855788502f7330ef00c5e9137108ebb2bd2ce11c72e16c8745c8b6752",
-  "sizeBytes": 10345818
+  "versionCode": 8,
+  "versionName": "1.7",
+  "changelog": "现金流槽新增月收入：储备月数改按「月支出 − 月收入」的净支出算，收入抵完支出直接进最高档；槽内「记一笔」可切收/支。数据库升到 v14，覆盖安装保数据。",
+  "downloadUrl": "https://github.com/kkkty/earthOnline-releases/releases/download/v1.7/earthOnline-v1.7.apk",
+  "apk": "earthOnline-v1.7.apk",
+  "sha256": "7ebbcd126f9e472d191020fa6b44ae05696ec50fb59929acf928c08c3a8a6cb8",
+  "sizeBytes": 10347590
 }
 
