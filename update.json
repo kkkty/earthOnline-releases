@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1",
-  "changelog": "日历可回看每天收支：日详情弹窗列出当日逐笔（收+支，6 条限高可滚），月历表头加当月支出合计",
-  "downloadUrl": "https://github.com/kkkty/earthOnline-releases/releases/download/v1.1/earthOnline-v1.1.apk",
-  "apk": "earthOnline-v1.1.apk",
-  "sha256": "2448c8d2dd08b28e3368af0094c5ba3afd4a6cf6308ad2a422e44d09614bd60f",
-  "sizeBytes": 10408986
+  "versionCode": 13,
+  "versionName": "1.2",
+  "changelog": "储备月数只看可支配现金：收入不再顶替这一格，档位一律按 可支配 ÷ 月度预算 评",
+  "downloadUrl": "https://github.com/kkkty/earthOnline-releases/releases/download/v1.2/earthOnline-v1.2.apk",
+  "apk": "earthOnline-v1.2.apk",
+  "sha256": "fa9a8175f6760a5cb97e3e9d8a18de3f508908810e1b80861360fad3a68a9016",
+  "sizeBytes": 10409182
 }
 
